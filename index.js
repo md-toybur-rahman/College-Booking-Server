@@ -82,7 +82,7 @@ async function run() {
             res.send(result);
         })
 
-        app.post('/toys', async (req, res) => {
+        app.post('/admit', async (req, res) => {
             const newToys = req.body;
             const result = await (admitCollection.insertOne(newToys));
             res.send(result)
