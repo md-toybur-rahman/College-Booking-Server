@@ -67,6 +67,11 @@ async function run() {
             const result = await cursor.toArray();
             res.send(result);
         })
+        app.get('/admit', async (req, res) => {
+            const cursor = admitCollection.find();
+            const result = await cursor.toArray();
+            res.send(result);
+        })
 
         app.get('/info/:id', async (req, res) => {
             const id = req.params.id;
