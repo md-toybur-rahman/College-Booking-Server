@@ -1,0 +1,572 @@
+[
+    {
+        "id": 1,
+        "college_image": "https://images.unsplash.com/photo-1569447891824-7a1758aa73a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80",
+        "college_name": "ABC University",
+        "admission_date": "2023-08-15",
+        "events": [
+            {
+                "event_name": "Welcome Week",
+                "date": "2023-08-20",
+                "description": "A series of events to welcome new students to the campus."
+            },
+            {
+                "event_name": "Tech Fest",
+                "date": "2024-02-12",
+                "description": "A celebration of technology and innovation."
+            }
+        ],
+        "research_history": {
+            "research_image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "total_research_projects": 250,
+            "website_link": "https://www.loc.gov/",
+            "ongoing_projects": 40,
+            "published_papers": 400,
+            "research_areas": [
+                "Computer Science",
+                "Biotechnology",
+                "Business"
+            ]
+        },
+        "sports": {
+            "teams": [
+                {
+                    "sports_name": "Soccer",
+                    "sports_image": "http://example.com/soccer_image.jpg",
+                    "field_image": "http://example.com/soccer_field.jpg"
+                },
+                {
+                    "sports_name": "Volleyball",
+                    "sports_image": "http://example.com/volleyball_image.jpg",
+                    "field_image": "http://example.com/volleyball_court.jpg"
+                }
+            ],
+            "facilities": [
+                "Gymnasium",
+                "Swimming pool",
+                "Volleyball court",
+                "Track field"
+            ]
+        },
+        "college_rating": 4.5,
+        "graduation_image": [
+            "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1496469888073-80de7e952517?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+            "https://images.unsplash.com/photo-1533854775446-95c4609da544?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        ]
+    },
+    {
+        "id": 2,
+        "college_image": "https://images.unsplash.com/photo-1559135197-8a45ea74d367?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+        "college_name": "XYZ College",
+        "admission_date": "2023-09-01",
+        "events": [
+            {
+                "event_name": "Freshers' Party",
+                "date": "2023-09-10",
+                "description": "A fun-filled event for welcoming new students."
+            },
+            {
+                "event_name": "Science Expo",
+                "date": "2024-03-20",
+                "description": "An exhibition showcasing scientific projects and discoveries."
+            }
+        ],
+        "research_history": {
+            "research_image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "total_research_projects": 180,
+            "website_link": "https://www.loc.gov/",
+            "ongoing_projects": 30,
+            "published_papers": 350,
+            "research_areas": [
+                "Physics",
+                "Chemistry",
+                "Environmental Science"
+            ]
+        },
+        "sports": {
+            "teams": [
+                {
+                    "sports_name": "Basketball",
+                    "sports_image": "http://example.com/basketball_image.jpg",
+                    "field_image": "http://example.com/basketball_court.jpg"
+                },
+                {
+                    "sports_name": "Badminton",
+                    "sports_image": "http://example.com/badminton_image.jpg",
+                    "field_image": "http://example.com/badminton_court.jpg"
+                }
+            ],
+            "facilities": [
+                "Gymnasium",
+                "Basketball court",
+                "Badminton court",
+                "Track field"
+            ]
+        },
+        "college_rating": 4.2,
+        "graduation_image": [
+            "https://images.unsplash.com/photo-1533854775446-95c4609da544?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1496469888073-80de7e952517?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+            "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        ]
+    },
+    {
+        "id": 3,
+        "college_image": "https://images.unsplash.com/photo-1622397333309-3056849bc70b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+        "college_name": "Sunshine College",
+        "admission_date": "2023-09-15",
+        "events": [
+            {
+                "event_name": "Freshers' Orientation",
+                "date": "2023-09-20",
+                "description": "An orientation program for new students."
+            },
+            {
+                "event_name": "Cultural Fest",
+                "date": "2024-04-15",
+                "description": "A celebration of diverse cultures through performances and activities."
+            }
+        ],
+        "research_history": {
+            "research_image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "total_research_projects": 280,
+            "website_link": "https://www.loc.gov/",
+            "ongoing_projects": 60,
+            "published_papers": 600,
+            "research_areas": [
+                "Social Sciences",
+                "Literature",
+                "Economics"
+            ]
+        },
+        "sports": {
+            "teams": [
+                {
+                    "sports_name": "Cricket",
+                    "sports_image": "http://example.com/cricket_image.jpg",
+                    "field_image": "http://example.com/cricket_field.jpg"
+                },
+                {
+                    "sports_name": "Table Tennis",
+                    "sports_image": "http://example.com/tt_image.jpg",
+                    "field_image": "http://example.com/tt_table.jpg"
+                }
+            ],
+            "facilities": [
+                "Gymnasium",
+                "Cricket ground",
+                "Table tennis room",
+                "Track field"
+            ]
+        },
+        "college_rating": 4.8,
+        "graduation_image": [
+            "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1496469888073-80de7e952517?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+            "https://images.unsplash.com/photo-1533854775446-95c4609da544?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        ]
+    },
+    {
+        "id": 4,
+        "college_image": "https://images.unsplash.com/photo-1547653872-052e3539decc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "college_name": "Academic Heights",
+        "admission_date": "2023-08-30",
+        "events": [
+            {
+                "event_name": "Induction Ceremony",
+                "date": "2023-09-01",
+                "description": "An official ceremony to induct new students into the college."
+            },
+            {
+                "event_name": "Literary Fest",
+                "date": "2024-03-25",
+                "description": "A celebration of literature and creative writing."
+            }
+        ],
+        "research_history": {
+            "research_image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "total_research_projects": 150,
+            "website_link": "https://www.loc.gov/",
+            "ongoing_projects": 20,
+            "published_papers": 250,
+            "research_areas": [
+                "Literature",
+                "History",
+                "Political Science"
+            ]
+        },
+        "sports": {
+            "teams": [
+                {
+                    "sports_name": "Hockey",
+                    "sports_image": "http://example.com/hockey_image.jpg",
+                    "field_image": "http://example.com/hockey_field.jpg"
+                },
+                {
+                    "sports_name": "Chess",
+                    "sports_image": "http://example.com/chess_image.jpg",
+                    "field_image": "http://example.com/chess_table.jpg"
+                }
+            ],
+            "facilities": [
+                "Gymnasium",
+                "Hockey field",
+                "Chess room",
+                "Track field"
+            ]
+        },
+        "college_rating": 4.4,
+        "graduation_image": [
+            "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1496469888073-80de7e952517?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+            "https://images.unsplash.com/photo-1533854775446-95c4609da544?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        ]
+    },
+    {
+        "id": 5,
+        "college_image": "https://images.unsplash.com/20/cambridge.JPG?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1147&q=80",
+        "college_name": "Green Valley University",
+        "admission_date": "2023-09-10",
+        "events": [
+            {
+                "event_name": "Freshers' Welcome",
+                "date": "2023-09-15",
+                "description": "A warm welcome for new students to the campus."
+            },
+            {
+                "event_name": "Environmental Symposium",
+                "date": "2024-04-05",
+                "description": "A symposium discussing environmental issues and solutions."
+            }
+        ],
+        "research_history": {
+            "research_image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "total_research_projects": 320,
+            "website_link": "https://www.loc.gov/",
+            "ongoing_projects": 70,
+            "published_papers": 550,
+            "research_areas": [
+                "Environmental Science",
+                "Ecology",
+                "Sustainability"
+            ]
+        },
+        "sports": {
+            "teams": [
+                {
+                    "sports_name": "Athletics",
+                    "sports_image": "http://example.com/athletics_image.jpg",
+                    "field_image": "http://example.com/athletics_track.jpg"
+                },
+                {
+                    "sports_name": "Yoga",
+                    "sports_image": "http://example.com/yoga_image.jpg",
+                    "field_image": "http://example.com/yoga_room.jpg"
+                }
+            ],
+            "facilities": [
+                "Gymnasium",
+                "Athletics track",
+                "Yoga studio",
+                "Swimming pool"
+            ]
+        },
+        "college_rating": 4.9,
+        "graduation_image": [
+            "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1496469888073-80de7e952517?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+            "https://images.unsplash.com/photo-1533854775446-95c4609da544?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        ]
+    },
+    {
+        "id": 6,
+        "college_image": "https://images.unsplash.com/photo-1566835745069-cebca4b64ce3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "college_name": "Tech Institute of Technology",
+        "admission_date": "2023-08-25",
+        "events": [
+            {
+                "event_name": "Tech Expo",
+                "date": "2023-09-01",
+                "description": "An exhibition showcasing innovative technology projects."
+            },
+            {
+                "event_name": "Hackathon",
+                "date": "2024-02-20",
+                "description": "A coding competition to encourage problem-solving and creativity."
+            }
+        ],
+        "research_history": {
+            "research_image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "total_research_projects": 380,
+            "website_link": "https://www.loc.gov/",
+            "ongoing_projects": 80,
+            "published_papers": 700,
+            "research_areas": [
+                "Computer Science",
+                "Electronics",
+                "Artificial Intelligence"
+            ]
+        },
+        "sports": {
+            "teams": [
+                {
+                    "sports_name": "Baseball",
+                    "sports_image": "http://example.com/baseball_image.jpg",
+                    "field_image": "http://example.com/baseball_field.jpg"
+                },
+                {
+                    "sports_name": "Esports",
+                    "sports_image": "http://example.com/esports_image.jpg",
+                    "field_image": "http://example.com/esports_arena.jpg"
+                }
+            ],
+            "facilities": [
+                "Gymnasium",
+                "Baseball field",
+                "Esports arena",
+                "Tennis courts"
+            ]
+        },
+        "college_rating": 4.6,
+        "graduation_image": [
+            "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1496469888073-80de7e952517?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+            "https://images.unsplash.com/photo-1533854775446-95c4609da544?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        ]
+    },
+    {
+        "id": 7,
+        "college_image": "https://images.unsplash.com/photo-1662212055985-b13237738608?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1228&q=80",
+        "college_name": "Medical College & Hospital",
+        "admission_date": "2023-09-05",
+        "events": [
+            {
+                "event_name": "White Coat Ceremony",
+                "date": "2023-09-10",
+                "description": "A symbolic ceremony to welcome new medical students."
+            },
+            {
+                "event_name": "Health Symposium",
+                "date": "2024-03-15",
+                "description": "A symposium addressing current health issues and medical advancements."
+            }
+        ],
+        "research_history": {
+            "research_image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "total_research_projects": 200,
+            "website_link": "https://www.loc.gov/",
+            "ongoing_projects": 25,
+            "published_papers": 300,
+            "research_areas": [
+                "Medicine",
+                "Biology",
+                "Pharmacology"
+            ]
+        },
+        "sports": {
+            "teams": [
+                {
+                    "sports_name": "Rugby",
+                    "sports_image": "http://example.com/rugby_image.jpg",
+                    "field_image": "http://example.com/rugby_field.jpg"
+                },
+                {
+                    "sports_name": "Swimming",
+                    "sports_image": "http://example.com/swimming_image.jpg",
+                    "field_image": "http://example.com/swimming_pool.jpg"
+                }
+            ],
+            "facilities": [
+                "Gymnasium",
+                "Rugby field",
+                "Swimming pool",
+                "Tennis courts"
+            ]
+        },
+        "college_rating": 4.3,
+        "graduation_image": [
+            "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1496469888073-80de7e952517?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+            "https://images.unsplash.com/photo-1533854775446-95c4609da544?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        ]
+    },
+    {
+        "id": 8,
+        "college_image": "https://images.unsplash.com/photo-1547653872-052e3539decc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "college_name": "Liberal Arts Academy",
+        "admission_date": "2023-09-20",
+        "events": [
+            {
+                "event_name": "Orientation Week",
+                "date": "2023-09-25",
+                "description": "A week-long orientation program for new students."
+            },
+            {
+                "event_name": "Art Fair",
+                "date": "2024-04-10",
+                "description": "An exhibition showcasing artworks of students and local artists."
+            }
+        ],
+        "research_history": {
+            "research_image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "total_research_projects": 120,
+            "website_link": "https://www.loc.gov/",
+            "ongoing_projects": 15,
+            "published_papers": 180,
+            "research_areas": [
+                "Fine Arts",
+                "Literature",
+                "Philosophy"
+            ]
+        },
+        "sports": {
+            "teams": [
+                {
+                    "sports_name": "Basketball",
+                    "sports_image": "http://example.com/basketball_image.jpg",
+                    "field_image": "http://example.com/basketball_court.jpg"
+                },
+                {
+                    "sports_name": "Dance",
+                    "sports_image": "http://example.com/dance_image.jpg",
+                    "field_image": "http://example.com/dance_studio.jpg"
+                }
+            ],
+            "facilities": [
+                "Gymnasium",
+                "Basketball court",
+                "Dance studio",
+                "Track field"
+            ]
+        },
+        "college_rating": 4.1,
+        "graduation_image": [
+            "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1496469888073-80de7e952517?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+            "https://images.unsplash.com/photo-1533854775446-95c4609da544?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        ]
+    },
+    {
+        "id": 9,
+        "college_image": "https://images.unsplash.com/photo-1570975640108-2292d83390ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1322&q=80",
+        "college_name": "Global Business School",
+        "admission_date": "2023-08-28",
+        "events": [
+            {
+                "event_name": "Business Conclave",
+                "date": "2023-09-05",
+                "description": "A conference featuring industry experts and entrepreneurs."
+            },
+            {
+                "event_name": "Marketing Summit",
+                "date": "2024-02-28",
+                "description": "A summit discussing the latest marketing trends and strategies."
+            }
+        ],
+        "research_history": {
+            "research_image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "total_research_projects": 100,
+            "website_link": "https://www.loc.gov/",
+            "ongoing_projects": 10,
+            "published_papers": 150,
+            "research_areas": [
+                "Business Administration",
+                "Finance",
+                "Marketing"
+            ]
+        },
+        "sports": {
+            "teams": [
+                {
+                    "sports_name": "Cricket",
+                    "sports_image": "http://example.com/cricket_image.jpg",
+                    "field_image": "http://example.com/cricket_field.jpg"
+                },
+                {
+                    "sports_name": "Debate",
+                    "sports_image": "http://example.com/debate_image.jpg",
+                    "field_image": "http://example.com/debate_hall.jpg"
+                }
+            ],
+            "facilities": [
+                "Gymnasium",
+                "Cricket ground",
+                "Debate hall",
+                "Tennis courts"
+            ]
+        },
+        "college_rating": 4.0,
+        "graduation_image": [
+            "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1496469888073-80de7e952517?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+            "https://images.unsplash.com/photo-1533854775446-95c4609da544?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        ]
+    },
+    {
+        "id": 10,
+        "college_image": "https://images.unsplash.com/photo-1568792923760-d70635a89fdc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "college_name": "Fashion Institute",
+        "admission_date": "2023-09-10",
+        "events": [
+            {
+                "event_name": "Fashion Show",
+                "date": "2023-09-20",
+                "description": "An annual fashion show showcasing the creations of students."
+            },
+            {
+                "event_name": "Design Workshop",
+                "date": "2024-03-05",
+                "description": "A workshop where students can enhance their design skills."
+            }
+        ],
+        "research_history": {
+            "research_image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "total_research_projects": 80,
+            "website_link": "https://www.loc.gov/",
+            "ongoing_projects": 5,
+            "published_papers": 120,
+            "research_areas": [
+                "Fashion Design",
+                "Textile Technology",
+                "Sustainable Fashion"
+            ]
+        },
+        "sports": {
+            "teams": [
+                {
+                    "sports_name": "Athletics",
+                    "sports_image": "http://example.com/athletics_image.jpg",
+                    "field_image": "http://example.com/athletics_track.jpg"
+                },
+                {
+                    "sports_name": "Chess",
+                    "sports_image": "http://example.com/chess_image.jpg",
+                    "field_image": "http://example.com/chess_table.jpg"
+                }
+            ],
+            "facilities": [
+                "Gymnasium",
+                "Athletics track",
+                "Chess room",
+                "Swimming pool"
+            ]
+        },
+        "college_rating": 4.5,
+        "graduation_image": [
+            "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+            "https://images.unsplash.com/photo-1496469888073-80de7e952517?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+            "https://images.unsplash.com/photo-1533854775446-95c4609da544?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        ]
+    }
+]
